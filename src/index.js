@@ -34,5 +34,5 @@ function render() {
 
 // use your createStore function and the functions provided here to create a store
 let store = createStore(candyReducer)
-store.dispatch([])
 // once the store is created, call an initial dispatch
+store.dispatch([])
